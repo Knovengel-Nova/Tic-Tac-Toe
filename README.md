@@ -1,6 +1,6 @@
 # Tic Tac Toe - Java (CUI Version)
 
-A simple **command-line Tic Tac Toe** game built in **Java**, designed for two players. The game runs in the terminal and is structured using basic object-oriented principles.<br><br>I plan to crete a **GUI** version of this game as well.
+A simple **command-line Tic Tac Toe** game built in **Java**, designed for two players. The game runs in the terminal and is structured using basic object-oriented principles.<br><br>I plan to crete a **GUI** version of this game in future as well.
 
 ## 📁 Files
 
